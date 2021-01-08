@@ -1,0 +1,7 @@
+1- id (her bir nesne oluştukça artan şekide ilerlesin),name, vahsi(boolean),
+    dogumTarihi (LocalDate) fieldları olan ve yiyecegi,
+   yemeMiktari, gunlukUykuSuresi ve sesi isimlerinde abstract metdoları,
+   toString şeklinde normal metodu ve get ve set leri olan Hayvan isminde
+   bir abstract class yazınız.
+
+2-Kedi, kartal şeklinde 2 tane extend alacak normal class yazınız.

@@ -1,0 +1,12 @@
+1-abstract Bank sınıfını yazınız.
+    void openAccount (imza, kimlik)
+    void closeAccount (imza, kimlik, hesap kontrol )
+    String withdraw
+    String deposit
+    String loan
+    double balance (para yatırılıp çekildiğinde değişsin)
+
+2-Alt 3 subclass'ları yazınız. Metodların içini her bankaya özel
+hesap açılışındaki farklı belge isteklerine göre yazınız.
+
+3-BankSistem classındaki main de kullnıcıya hangi bankada hesap açmak istediğini
